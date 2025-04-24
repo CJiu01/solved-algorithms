@@ -13,8 +13,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/7277)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|CJiu|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1789" target="_blank">1789</a>|<a href="https://www.acmicpc.net/problem/1789" target="_blank">수들의 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/1789" target="_blank">바로 가기</a>|
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a>|<a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/10815" target="_blank">바로 가기</a>|
 |002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/2417" target="_blank">2417</a>|<a href="https://www.acmicpc.net/problem/2417" target="_blank">정수 제곱근</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2417" target="_blank">바로 가기</a>|
