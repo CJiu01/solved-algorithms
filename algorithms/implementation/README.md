@@ -17,8 +17,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6783)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|CJiu|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/2753" target="_blank">2753</a>|<a href="https://www.acmicpc.net/problem/2753" target="_blank">윤년</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/2753" target="_blank">바로 가기</a>|
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/5597" target="_blank">5597</a>|<a href="https://www.acmicpc.net/problem/5597" target="_blank">과제 안 내신 분..?</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/5597" target="_blank">바로 가기</a>|
 |002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/20053" target="_blank">20053</a>|<a href="https://www.acmicpc.net/problem/20053" target="_blank">최소, 최대 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/20053" target="_blank">바로 가기</a>|
