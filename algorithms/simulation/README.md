@@ -15,8 +15,8 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6832)
 
 
-|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|순번|추천 문제|문제 번호|문제 이름|난이도|풀이 링크|CJiu|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |000|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/20436" target="_blank">20436</a>|<a href="https://www.acmicpc.net/problem/20436" target="_blank">ZOAC 3</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|<a href="https://github.com/tony9402/algorithm-solutions/tree/main/solutions/baekjoon/20436" target="_blank">바로 가기</a>|
 |001|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/5212" target="_blank">5212</a>|<a href="https://www.acmicpc.net/problem/5212" target="_blank">지구 온난화</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>||
 |002|:heavy_check_mark:|<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>||
